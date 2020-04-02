@@ -270,13 +270,13 @@ P0-P2支持數字讀寫和模擬讀寫(Analogy)，P8、P12-P15只支持數字(Di
 ## Robotbit新手必看快速入门教程  
 
 ### 把18650电池装到Robotbit上，注意正负
-![](./image/z1.GIF)   
+![](./image/z1.gif)   
 ### 把Microbit插到Robotbit上，注意插接方向
-![](./image/z4.GIF)
+![](./image/z4.gif)
 ### 点击电池激活按钮
-![](./image/z2.GIF)   
+![](./image/z2.gif)   
 ### 打开18650电池开关
-![](./image/z3.GIF)   
+![](./image/z3.gif)   
 
 
 
