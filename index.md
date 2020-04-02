@@ -268,6 +268,22 @@ P0-P2支持數字讀寫和模擬讀寫(Analogy)，P8、P12-P15只支持數字(Di
 
   
 
+## Robotbit新手必看快速入門教程  
+
+### 把18650電池裝到Robotbit上，注意正負極
+
+
+
+![](./image/z1.gif)
+
+
+
+
+## Robotbit Makecode 積木詳細教學
+
+Robotbit 為以Micro:bit 作主控的製作注入強大而靈活的功能, Kittenbot 亦為新增功能製作了相關的編程積木, 詳情請參考以下使用手冊。
+
+[Robot:bit 2.0 詳細使用手冊](https://goo.gl/9E3c6Q)
 
 
 
