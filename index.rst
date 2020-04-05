@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-Robotbit
-====================
-
-Robotbit的全方位介绍，以及micropython实用API
-
-.. toctree::
-    :maxdepth: 1
-    :glob:
-
-    intro
-    robotbit-API
-=======
 .. kittenbot docs documentation master file, created by
    sphinx-quickstart on Fri Feb 23 20:48:29 2018.
    You can adapt this file completely to your liking, but it should at least
@@ -95,4 +82,3 @@ Robotbit的全方位介绍，以及micropython实用API
     recently/makecodeV5英文问题
     recently/makecode在xp中使用
     recently/喵家软件下载地址
->>>>>>> parent of 2f0250f... remove many files
